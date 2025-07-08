@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+textarea {
+  width: 100%;
+  padding: 1rem;
+  font-family: monospace;
+  margin: 1rem 0;
+}
+
+select, button {
+  margin: 1rem;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+}
+
+pre {
+  background: #282c34;
+  color: #61dafb;
+  text-align: left;
+  padding: 1rem;
+  white-space: pre-wrap;
+  border-radius: 6px;
+}
